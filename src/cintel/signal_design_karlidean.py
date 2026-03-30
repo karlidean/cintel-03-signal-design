@@ -64,7 +64,7 @@ ARTIFACTS_DIR: Final[Path] = ROOT_DIR / "artifacts"
 
 # === DECLARE GLOBAL CONSTANTS FOR FILE PATHS ===
 
-DATA_FILE: Final[Path] = DATA_DIR / "system_metrics_case.csv"
+DATA_FILE: Final[Path] = DATA_DIR / "system_metrics_karlidean.csv"
 OUTPUT_FILE: Final[Path] = ARTIFACTS_DIR / "signals_karlidean.csv"
 
 
